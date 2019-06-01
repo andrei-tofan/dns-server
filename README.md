@@ -12,4 +12,3 @@ Simple nodejs server implementation.
 * https://github.com/mafintosh/dnsjack
 
 * https://pi-hole.net
-

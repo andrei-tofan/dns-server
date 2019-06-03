@@ -1,5 +1,5 @@
 # DNS Server
-Simple nodejs server implementation.
+Simple NodeJs server implementation that enables DNS ad-blocking.
 
 ## Similar Node.js DNS Projects
 * https://github.com/tjfontaine/node-dns
